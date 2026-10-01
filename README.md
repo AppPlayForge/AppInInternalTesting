@@ -41,4 +41,13 @@ Below are some screenshots. Visit Releases for more details.
 <img width="30%" alt="計時器" src="https://github.com/user-attachments/assets/2a3b1911-5f63-4edb-adff-515a9f707181" />
 <img width="30%" alt="me" src="https://github.com/user-attachments/assets/6556f4db-d299-4afe-aa74-eef20a6af01c" />
 
+## keedChat
+### 加密通訊，不需要手機號碼，郵箱進行注冊
+發送加密文本，圖片，影片，定位，視頻通話，群組聊天。
+測試版版本還有很多不穩定的地方，請提交日志。
+Encrypted communication; registration via email only, no phone number required. Send encrypted text, images, videos, location data, video calls, and group chats.
+The beta version still has many instabilities; please submit logs.
 
+<img width="30%" alt="cle" src="https://github.com/user-attachments/assets/ecd555e2-a1e2-472b-88b0-2f573820c219" />
+<img width="30%" alt="my" src="https://github.com/user-attachments/assets/0656382a-16f9-4b5f-8206-334003345c33" />
+<img width="30%" alt="chat" src="https://github.com/user-attachments/assets/f1eb1744-4ea5-4882-8b00-6c9190a3faf3" />
