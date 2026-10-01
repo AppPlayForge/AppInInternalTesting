@@ -3,13 +3,17 @@
 -  升了麽     關注老齡人，自動化發送郵件，簡訊，撥打電話；
 -  keedChat   加密通訊
 
+支持安卓12系統以上；
+點擊網頁的右邊或最下面的 tags 》 選擇你要下載的標簽 》在 Assets 》選擇.apk 》進行下載；
+（請選擇最新版本,如果安裝失敗，先刪除舊版后安裝）
 因未發佈到應用市場，部分手機會有風險提示；
 僅限於內部人員測試，不對外公開，禁止商業用途！
-支持安卓12系統以上；
-點擊本網頁右邊的Releases打開下載頁面，請選擇最新版本,如果安裝失敗，先刪除舊版后安裝。
 
-Because it has not been released to app stores, some phones may display a risk warning; This is for internal testing only and is not publicly available. Commercial use is prohibited!
-Supports Android 12 and above; Click "Releases" on the right side of this webpage to open the download page. Please select the latest version. If installation fails, delete the old version first and then install.
+Requires Android 12 or higher;
+Tap "Tags" on the right or at the bottom of the webpage > select the tag you wish to download > go to "Assets" > select the .apk file > proceed with the download;
+(Please select the latest version; if installation fails, uninstall the old version before installing the new one.)
+As the app has not been released on official app stores, some phones may display a security warning;
+For internal testing only; not for public release or commercial use!
 
 ### 版權所有 (Copyright)
 Copyright © 2026 AppPlayForge. All rights reserved.
