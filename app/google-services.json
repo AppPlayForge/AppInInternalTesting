@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826040287588",
+    "project_id": "com-sswuss-appininternal-f7608",
+    "storage_bucket": "com-sswuss-appininternal-f7608.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826040287588:android:4087bc5b7e97c7671b3a71",
+        "android_client_info": {
+          "package_name": "com.sswuss.appininternaltesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB00GHhGNvwKGbg57ka5ouAXN_VhWtz5lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
