@@ -19,18 +19,20 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 
 ## sswuss-1 
 ### 黃曆，吉日查詢，記事本，農曆生日提醒，八字，AI算命，AI起名字，風水羅盤，尺規，車速儀，月經記錄。
-
 Traditional almanac, auspicious day lookup, notepad, lunar birthday reminders, BaZi (Four Pillars of Destiny), 
 AI fortune-telling, AI name generation, Feng Shui compass, ruler and protractor, speedometer, menstrual tracker.
 
 部分截圖：（進入 Releases 查看更多介紹）
+(Partial screenshots; see Releases for more details)
 
 <img width="30%" alt="黃曆" src="https://github.com/user-attachments/assets/1333ae92-c2c7-4a41-ba81-8f97155e36c8" />
 <img width="30%" alt="八字" src="https://github.com/user-attachments/assets/6291665c-7a9e-405b-a0ac-0c46c0a5dbbf" />
 <img width="30%" alt="tools" src="https://github.com/user-attachments/assets/7d5b85d5-01ac-4cea-b6ae-4e97bd600997" />
 
----
+
 ## 升了麽
+### 老齡人使用的app，在倒計時未打卡就自動發送求助。（部分截圖，進入 Releases 查看更多介紹）
+The app, designed for seniors, automatically sends an SOS message if the user fails to check in during the countdown. (Partial screenshots; see Releases for more details)
 
 <img width="30%" alt="1" src="https://github.com/user-attachments/assets/45403d63-4a96-425d-ad71-3b3fa1604e3b" />
 <img width="30%" alt="計時器" src="https://github.com/user-attachments/assets/2a3b1911-5f63-4edb-adff-515a9f707181" />
