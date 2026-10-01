@@ -14,14 +14,8 @@ Supports Android 12 and above; Click "Releases" on the right side of this webpag
 ### 版權所有 (Copyright)
 Copyright © 2026 AppPlayForge. All rights reserved.
                                         
-### 商業用途聲明 (Commercial Use)
-**嚴禁在未經授權的情況下將本項目直接用於商業營利活動。**
-如果你計劃將本項目的代碼用於商業產品，或者希望獲得非 GPL 協議的授權（如閉源商業授權），請務必通過以下方式聯繫我進行協商：
+### 聯繫我：
 - **Email**: sswuss@outlook.com
-- **GitHub Issues**: 提交一個 Issue 說明你的意圖
-
-未經許可的商業轉售、打包銷售或封裝後作為商業軟件發佈將被視為侵權行為。
-Unauthorized commercial resale, bundling, or redistribution as commercial software after repackaging will be considered an act of infringement
 
 ## sswuss-1 
 ### 黃曆，吉日查詢，記事本，農曆生日提醒，八字，AI算命，AI起名字，風水羅盤，尺規，車速儀，月經記錄。
@@ -33,10 +27,13 @@ AI fortune-telling, AI name generation, Feng Shui compass, ruler and protractor,
 
 <img width="30%" alt="黃曆" src="https://github.com/user-attachments/assets/1333ae92-c2c7-4a41-ba81-8f97155e36c8" />
 <img width="30%" alt="八字" src="https://github.com/user-attachments/assets/6291665c-7a9e-405b-a0ac-0c46c0a5dbbf" />
-<img width="30%" alt="Screenshot_20260829_133946" src="https://github.com/user-attachments/assets/81b49b25-90dc-406b-a29f-ce693274d3f7" />
-<img width="30%" alt="Screenshot_20260914_174020" src="https://github.com/user-attachments/assets/6a3013c6-7635-45f4-b206-49616bbaa933" />
-<img width="30%" alt="Screenshot_20260914_173933" src="https://github.com/user-attachments/assets/7caedae4-a802-4583-9942-7cea75d65e7f" />
 <img width="30%" alt="tools" src="https://github.com/user-attachments/assets/7d5b85d5-01ac-4cea-b6ae-4e97bd600997" />
 
 ---
 ## 升了麽
+
+<img width="30%" alt="1" src="https://github.com/user-attachments/assets/45403d63-4a96-425d-ad71-3b3fa1604e3b" />
+<img width="30%" alt="計時器" src="https://github.com/user-attachments/assets/2a3b1911-5f63-4edb-adff-515a9f707181" />
+<img width="30%" alt="me" src="https://github.com/user-attachments/assets/6556f4db-d299-4afe-aa74-eef20a6af01c" />
+
+
