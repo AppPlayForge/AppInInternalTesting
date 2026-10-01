@@ -30,6 +30,7 @@ Traditional almanac, auspicious day lookup, notepad, lunar birthday reminders, B
 AI fortune-telling, AI name generation, Feng Shui compass, ruler and protractor, speedometer, menstrual tracker.
 
 部分截圖：（進入 Releases 查看更多介紹）
+
 <img width="30%" alt="黃曆" src="https://github.com/user-attachments/assets/1333ae92-c2c7-4a41-ba81-8f97155e36c8" />
 <img width="30%" alt="八字" src="https://github.com/user-attachments/assets/6291665c-7a9e-405b-a0ac-0c46c0a5dbbf" />
 <img width="30%" alt="Screenshot_20260829_133946" src="https://github.com/user-attachments/assets/81b49b25-90dc-406b-a29f-ce693274d3f7" />
