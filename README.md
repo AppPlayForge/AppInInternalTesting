@@ -19,6 +19,7 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 
 ## sswuss-1 
 ### 黃曆，吉日查詢，記事本，農曆生日提醒，八字，AI算命，AI起名字，風水羅盤，尺規，車速儀，月經記錄。
+
 Traditional almanac, auspicious day lookup, notepad, lunar birthday reminders, BaZi (Four Pillars of Destiny), 
 AI fortune-telling, AI name generation, Feng Shui compass, ruler and protractor, speedometer, menstrual tracker.
 (Partial screenshots; see Releases for more details)
@@ -33,6 +34,7 @@ AI fortune-telling, AI name generation, Feng Shui compass, ruler and protractor,
 ### 老齡人使用的app，在倒計時未打卡就自動發送求助
 以及自定義計時器，如果未打卡，就發送電子郵件，或者簡訊，電話。
 部分截圖，進入 Releases 查看更多介紹
+
 The app for seniors automatically sends an SOS if the user fails to check in during the countdown.
 It also features a customizable timer that sends an email, text message, or phone call if the user fails to check in.
 Below are some screenshots. Visit Releases for more details.
@@ -45,6 +47,7 @@ Below are some screenshots. Visit Releases for more details.
 ### 加密通訊，不需要手機號碼，郵箱進行注冊
 發送加密文本，圖片，影片，定位，視頻通話，群組聊天。
 測試版版本還有很多不穩定的地方，請提交日志。
+
 Encrypted communication; registration via email only, no phone number required. Send encrypted text, images, videos, location data, video calls, and group chats.
 The beta version still has many instabilities; please submit logs.
 
