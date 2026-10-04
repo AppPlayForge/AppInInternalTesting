@@ -1,4 +1,3 @@
-<img width="1220" height="2712" alt="tools-t" src="https://github.com/user-attachments/assets/1e7fdec7-2b6f-482e-aaca-d4713f6ea577" />
 # AppPlayForge
 
 ## 內部測試 App
