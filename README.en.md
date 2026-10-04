@@ -42,9 +42,8 @@ Traditional Chinese almanac, auspicious day lookup, notepad, lunar birthday remi
 Partial screenshots are shown below. Visit **Releases** for more details.
 
 <img width="30%" alt="Almanac" src="https://github.com/user-attachments/assets/1333ae92-c2c7-4a41-ba81-8f97155e36c8" />
-<img width="30%" alt="sl-ja" src="https://github.com/user-attachments/assets/619f3d1e-91ed-4f2d-8a9f-34afd74cc3b1" />
-<img width="30%" alt="tools-ja" src="https://github.com/user-attachments/assets/bf40ec5f-0086-4e0e-9687-65ca77e746b4" />
-
+<img width="30%" alt="sl-en" src="https://github.com/user-attachments/assets/b4e8958c-3951-4b71-aed9-e30561baabd9" />
+<img width="30%" alt="tools-3" src="https://github.com/user-attachments/assets/88c5b9b3-79e5-488c-9fc7-277d8d663a58" />
 
 ---
 # 升了麽
