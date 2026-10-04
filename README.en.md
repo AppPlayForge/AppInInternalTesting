@@ -11,7 +11,6 @@
 [繁體中文](README.md) | [简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 ---
-
 Requires **Android 12 or higher**.
 
 Click **Tags** on the right side or at the bottom of the GitHub page → select the version you want to download → open **Assets** → select the `.apk` file → download it.
@@ -47,7 +46,6 @@ Partial screenshots are shown below. Visit **Releases** for more details.
 <img width="30%" alt="Tools" src="https://github.com/user-attachments/assets/7d5b85d5-01ac-4cea-b6ae-4e97bd600997" />
 
 ---
-
 # 升了麽
 
 ### Senior Safety App
@@ -75,7 +73,6 @@ Partial screenshots are shown below. Visit **Releases** for more details.
 Registration does not require a phone number or email address, with a focus on user privacy.
 
 Features include:
-
 - Encrypted text messages
 - Images
 - Videos
@@ -84,7 +81,6 @@ Features include:
 - Group chats
 
 This is currently a beta version and still contains many bugs.
-
 If you encounter problems, please submit the relevant logs to help improve the app.
 
 <img width="30%" alt="Encryption" src="https://github.com/user-attachments/assets/ecd555e2-a1e2-472b-88b0-2f573820c219" />

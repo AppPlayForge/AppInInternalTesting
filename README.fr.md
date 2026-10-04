@@ -75,7 +75,6 @@ Certaines captures d'écran sont présentées ci-dessous. Consultez **Releases**
 L'inscription ne nécessite ni numéro de téléphone ni adresse e-mail, afin de protéger la vie privée des utilisateurs.
 
 Fonctionnalités :
-
 - Messages texte chiffrés
 - Images
 - Vidéos

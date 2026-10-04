@@ -1,7 +1,6 @@
 # AppPlayForge
 
 ## 内部テストアプリ
-
 - **sswuss-1** — ユーティリティアプリ
 - **升了麽** — 高齢者向けの安全確認アプリ。メール、SMS、電話による自動通知に対応
 - **keedChat** — 暗号化通信アプリ
@@ -33,7 +32,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 - **Email**: sswuss@outlook.com
 
 ---
-
 # sswuss-1
 
 ### 機能
@@ -47,7 +45,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 <img width="30%" alt="ツール" src="https://github.com/user-attachments/assets/7d5b85d5-01ac-4cea-b6ae-4e97bd600997" />
 
 ---
-
 # 升了麽
 
 ### 高齢者向け安全確認アプリ
@@ -67,7 +64,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 <img width="30%" alt="チェックイン" src="https://github.com/user-attachments/assets/6556f4db-d299-4afe-aa74-eef20a6af01c" />
 
 ---
-
 # keedChat
 
 ### 暗号化通信
@@ -75,7 +71,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 電話番号やメールアドレスを必要とせずに登録でき、ユーザーのプライバシーを重視しています。
 
 以下の機能に対応しています。
-
 - 暗号化テキストメッセージ
 - 画像
 - 動画

@@ -75,7 +75,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 注册不需要手机号码或电子邮件地址，注重保护用户隐私。
 
 支持：
-
 - 加密文字消息
 - 图片
 - 视频

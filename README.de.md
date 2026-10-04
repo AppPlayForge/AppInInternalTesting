@@ -1,13 +1,11 @@
 # AppPlayForge
 
 ## Interne Test-Apps
-
 - **sswuss-1** — Dienstprogramm-App
 - **升了麽** — Sicherheits-App für ältere Menschen mit automatischen Benachrichtigungen per E-Mail, SMS und Telefon
 - **keedChat** — Verschlüsselte Kommunikations-App
 
 ### Sprachen
-
 [繁體中文](README.md) | [简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 ---
@@ -49,7 +47,6 @@ Einige Screenshots finden Sie unten. Weitere Informationen finden Sie unter **Re
 ---
 
 # 升了麽
-
 ### Sicherheits-App für ältere Menschen
 
 Die App wurde für ältere Menschen entwickelt. Wenn der Benutzer den Check-in vor Ablauf des Countdowns nicht bestätigt, kann die App automatisch eine SOS-Benachrichtigung senden.
@@ -67,9 +64,7 @@ Einige Screenshots finden Sie unten. Weitere Informationen finden Sie unter **Re
 <img width="30%" alt="Check-in" src="https://github.com/user-attachments/assets/6556f4db-d299-4afe-aa74-eef20a6af01c" />
 
 ---
-
 # keedChat
-
 ### Verschlüsselte Kommunikation
 
 Für die Registrierung werden weder eine Telefonnummer noch eine E-Mail-Adresse benötigt. Der Schutz der Privatsphäre steht im Mittelpunkt.
@@ -84,7 +79,6 @@ Unterstützt werden:
 - Gruppenchats
 
 Die aktuelle Version befindet sich noch in der Beta-Phase und enthält weiterhin viele Fehler.
-
 Wenn Probleme auftreten, senden Sie bitte die entsprechenden Protokolle, damit die App verbessert werden kann.
 
 <img width="30%" alt="Verschlüsselung" src="https://github.com/user-attachments/assets/ecd555e2-a1e2-472b-88b0-2f573820c219" />

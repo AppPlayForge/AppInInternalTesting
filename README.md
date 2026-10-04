@@ -11,7 +11,6 @@
 [繁體中文](README.md) | [简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 ---
-
 支持 **Android 12 及以上版本**。
 
 點擊 GitHub 網頁右側或最下方的 **Tags** → 選擇你要下載的版本 → 在 **Assets** 中選擇 `.apk` 文件 → 進行下載。

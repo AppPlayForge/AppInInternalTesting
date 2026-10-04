@@ -11,7 +11,6 @@
 [繁體中文](README.md) | [简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 ---
-
 **Android 12 이상**을 지원합니다.
 
 GitHub 페이지 오른쪽 또는 하단의 **Tags**를 클릭 → 다운로드하려는 버전을 선택 → **Assets**에서 `.apk` 파일을 선택 → 다운로드합니다.
@@ -33,7 +32,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 - **Email**: sswuss@outlook.com
 
 ---
-
 # sswuss-1
 
 ### 주요 기능
@@ -47,7 +45,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 <img width="30%" alt="도구" src="https://github.com/user-attachments/assets/7d5b85d5-01ac-4cea-b6ae-4e97bd600997" />
 
 ---
-
 # 升了麽
 
 ### 고령자 안전 관리 앱
@@ -55,7 +52,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 고령자를 위해 설계된 앱으로, 사용자가 카운트다운이 끝나기 전에 체크인을 완료하지 않으면 자동으로 긴급 알림을 보낼 수 있습니다.
 
 또한 사용자 지정 타이머 기능을 제공합니다. 지정된 시간 내에 체크인을 완료하지 않으면 다음과 같은 방법으로 자동 알림을 보낼 수 있습니다.
-
 - 이메일
 - SMS
 - 전화
@@ -75,7 +71,6 @@ Copyright © 2026 AppPlayForge. All rights reserved.
 전화번호나 이메일 주소 없이 가입할 수 있으며, 사용자의 개인정보 보호를 중요하게 생각합니다.
 
 다음 기능을 지원합니다.
-
 - 암호화된 문자 메시지
 - 이미지
 - 동영상
