@@ -7,10 +7,10 @@ espressoCore = "3.7.0"
 lifecycleRuntimeKtx = "2.11.0"
 lifecycleViewmodelCompose = "2.11.0"
 activityCompose = "1.13.0"
-kotlin = "2.2.10"
-composeBom = "2026.02.01"
-firebaseAi = "17.17.0"
-googleGmsGoogleServices = "4.4.4"
+kotlin = "2.4.20"
+composeBom = "2026.09.00"
+firebaseAi = "18.0.0"
+googleGmsGoogleServices = "4.5.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
