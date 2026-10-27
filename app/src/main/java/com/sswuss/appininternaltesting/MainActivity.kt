@@ -10,8 +10,8 @@ import androidx.compose.ui.Modifier
 import com.sswuss.appininternaltesting.ui.theme.AppInInternalTestingTheme
 
 // 測試APP
-//這個不是項目源代碼！ 僅提供内容測試人員的入口
-
+// 這個不是項目源代碼！ 僅提供測試使用！
+// 項目有很多bug 請不要作爲主力使用！
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
