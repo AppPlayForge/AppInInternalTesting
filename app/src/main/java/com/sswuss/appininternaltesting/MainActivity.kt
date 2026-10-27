@@ -10,6 +10,7 @@ import androidx.compose.ui.Modifier
 import com.sswuss.appininternaltesting.ui.theme.AppInInternalTestingTheme
 
 // 測試APP
+//這個不是項目源代碼！ 僅提供内容測試人員的入口
 
 
 class MainActivity : ComponentActivity() {
